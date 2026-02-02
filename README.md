@@ -1,26 +1,26 @@
-### What I Do
+### 💻 What I Do
 
-I build backend systems that solve real problems in my spare time. From a banking fee aggregator webapp to WhatsApp automation bridge to handle messaging of a medical appointment reminder app for service providers and patients, I close the gap between business needs and technical implementation.
+**Senior Backend Engineer** with **cloud infrastructure** experience, working primarily with **Java/Spring**. Currently expanding my full-stack capabilities.
 
-I'm a Senior backend engineer with cloud infrastructure experience, working primarily with Java/Spring, I'm currently expanding my full-stack capabilities.
+I build backend systems that solve real problems. From a banking fee aggregator to a WhatsApp bridge for medical appointment reminders, I aim to close the gap between business needs and technical implementation.
 
-### What I've Built
+### 🔧 What I've Built
 
-**[monitor-comisiones-bancarias](https://github.com/jrusco/monitor-comisiones-bancarias)** • Go
-Aggregates and compares credit card transaction fees across major Argentine banks. Built in a day, demonstrates rapid prototyping and real-world problem solving with financial data.
+**[monitor-comisiones-bancarias](https://github.com/jrusco/monitor-comisiones-bancarias)** •
+**Go prototyping** with financial data—aggregates and compares credit card fees across major Argentine banks.
 
 **[codekit](https://github.com/jrusco/codekit)** • TypeScript
-Privacy-first developer toolkit running entirely in-browser with encrypted session persistence. Shows security-conscious design and full-stack capability.
+**Privacy-first** developer toolkit running entirely in-browser with encrypted session persistence. Security-conscious design meets full-stack capability.
 
 **[whatsapp-bridge](https://github.com/jrusco/whatsapp-bridge)** • JavaScript
-Middleware for handling and forwarding messages to n8n webhooks. Integration work connecting different systems - the kind of "glue code" that makes business operations work.
+**Integration middleware** for forwarding messages to n8n webhooks. The "glue code" that makes business operations work.
 
-### What I'm Currently Exploring
+### 📡 Currently Exploring
 
-Deepening expertise in cloud-native architectures and modern frontend tooling. Working with Go for backend services, React/TypeScript for UIs, and exploring how to streamline deployment pipelines and development environments for my future projects.
+Deepening expertise in **cloud-native** architectures and modern frontend tooling. Working with **Go** for backend services, **React/TypeScript** for UIs, and streamlining deployment pipelines.
 
-I'm always looking for opportunities to blend hands-on engineering with the soft kills involved in leadership and client-facing roles.
+Always looking to blend hands-on engineering with the **soft skills** of leadership and client-facing roles.
 
 ---
 
-**Contact Info:** [LinkedIn](https://linkedin.com/in/jrusco) • [Email](mailto:juan@rusco.dev)
+**📬 Connect:** [LinkedIn](https://linkedin.com/in/jrusco) • [Email](mailto:juan@rusco.dev)
